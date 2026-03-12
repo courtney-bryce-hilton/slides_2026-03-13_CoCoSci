@@ -1,0 +1,173 @@
+---
+title: "scalably tracking<br>global neurodevelopment<br>via pitch sensitivity"
+subtitle: "CoCoSci Lab Meeting"
+author: "-<br>Courtney B. Hilton"
+format:
+  revealjs:
+    theme: [default, styles.scss]
+    slide-number: true
+    chalkboard: true
+    center-title-slide: true
+    auto-stretch: false
+    css: [research-program-styles.css]
+    template-partials:
+      - title-slide.html
+    includes:
+      after-body: research-program-viz.html 
+resources:
+  - research-program-viz.js
+  - research-program-styles.css
+filters:
+  - slide-wrapper.lua
+title-slide-attributes:
+  data-background-color: "#000F46"
+  data-background-size: contain
+date: 2026-03-13
+date-format: long
+title-logo: "./media/logos/melb.png"
+---
+
+![](media/images/collage_people.png){width="90%" .abs-center}
+---
+
+![](media/images/uni_students.jpg){width="80%" .abs-center}
+
+---
+
+![Henrich, Heine, Norenzayan, 2010, *BBS*](media/images/weird.png){width="60%" .abs-center}
+
+---
+
+![Chiao, 2009, *In Progress in Brain Research*](media/images/Chiao_2009.png){width="80%" .abs-center}
+---
+
+![7 Telsa MRI Scanner (~$14,000,000)](media/images/mri.avif){width="80%" .abs-center}
+
+---
+
+![Kimberly et al., 2023, *Nature Reviews Bioengineering*](media/images/lf-mri.png){width="80%" .abs-center}
+
+---
+
+![Bethlehem et al., 2022, *Nature*](media/images/brain-chart.png){width="65%" .abs-center}
+
+---
+
+![NCD Risk Factor Collaboration, 2016, *eLife*](media/images/height.png){width="90%" .abs-center}
+
+---
+
+![De Onis et al., 2012, *Public Health Nutrition*](media/images/growth-chart.png){width="90%" .abs-center}
+
+---
+
+![Bogin, 2020, *Patterns of Human Growth, Third Edition*](media/images/biocultural.png){width="90%" .abs-center}
+
+---
+
+![Atari, Henrich, Schulz, 2025, *Nature Human Behaviour*](media/images/atari.png){width="80%" .abs-center}
+
+## introducing my new MRI machine... {.title-center .bit-smaller}
+
+---
+
+![](media/images/piano1.png){width="100%" .abs-center}
+
+---
+
+![](media/images/piano2.png){width="100%" .abs-center}
+
+---
+
+![](media/images/piano3.png){width="100%" .abs-center}
+
+---
+
+![](media/images/piano4.png){width="100%" .abs-center}
+
+---
+
+```{=html}
+{{< include td-demo.html >}}
+```
+
+---
+
+![](media/images/td-feedback.png){width="90%" .abs-center}
+
+---
+
+![](media/images/td-game.png){width="60%" .abs-center}
+
+---
+
+![](media/figures/participant_map.png){width="100%" .abs-center}
+---
+
+![Habermann et al., 2025, *Bayesian Analysis*](media/images/ddm.png){width="80%" .abs-center}
+
+---
+
+![](media/figures/figure1.png){width="80%" .abs-center}
+
+---
+
+![](media/figures/fig2a.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/fig2b.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/fig2b.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/fig2c.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/fig2d.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/figure2.png){width="90%" .abs-center}
+
+## why? {.title-center}
+
+
+---
+
+![](media/figures/proxy-identification.png){width="100%" .abs-center}
+
+---
+
+![](media/images/charlie.webp){width="70%" .abs-center}
+
+
+
+
+
+
+
+
+## thanks!!
+
+![](media/logos/arc.jpg){width="50%" .abs-center}
+
+---
+
+## thanks for your attention! {.title-center}
+
+---
+
+
+```{=html}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="research-program-viz.js"></script>
+<!-- <script type="text/javascript" src="zoomer.js"></script> -->
+<script type="text/javascript" src="audio_player.js"></script>
+```
+
+
