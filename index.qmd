@@ -102,13 +102,18 @@ title-logo: "./media/logos/melb.png"
 ---
 
 ![](media/figures/participant_map.png){width="100%" .abs-center}
----
-
-![Habermann et al., 2025, *Bayesian Analysis*](media/images/ddm.png){width="80%" .abs-center}
 
 ---
 
-![](media/figures/figure1.png){width="80%" .abs-center}
+![](media/figures/processing1.png){width="100%" .abs-center}
+
+---
+
+![](media/figures/processing2.png){width="100%" .abs-center}
+
+---
+
+![](media/figures/processing3.png){width="100%" .abs-center}
 
 ---
 
@@ -116,11 +121,19 @@ title-logo: "./media/logos/melb.png"
 
 ---
 
-![](media/figures/fig2b.png){width="70%" .abs-center}
+![Bethlehem et al., 2022, *Nature*](media/images/brain-chart.png){width="65%" .abs-center}
+
+---
+
+![](media/images/wm-trajectory.png){width="70%" .abs-center}
 
 ---
 
 ![](media/figures/fig2b.png){width="70%" .abs-center}
+
+---
+
+![](media/figures/fig2a.png){width="70%" .abs-center}
 
 ---
 
@@ -136,7 +149,6 @@ title-logo: "./media/logos/melb.png"
 
 ## why? {.title-center}
 
-
 ---
 
 ![](media/figures/proxy-identification.png){width="100%" .abs-center}
@@ -145,22 +157,56 @@ title-logo: "./media/logos/melb.png"
 
 ![](media/images/charlie.webp){width="70%" .abs-center}
 
+## what can we do with this? {.title-center}
 
+---
 
+![](media/figures/income_plot.png){width="65%" .abs-center}
 
+---
 
+![](media/figures/SESplot.png){width="65%" .abs-center}
 
+---
+
+![](media/figures/sex-diff-whitematter.png){width="65%" .abs-center}
+
+---
+
+![](media/figures/sex-diff-shift.png){width="65%" .abs-center}
+
+---
+
+![](media/figures/countryGenderDiff.png){width="55%" .abs-center}
+
+---
+
+![Bogin, 2020, *Patterns of Human Growth, Third Edition*](media/images/biocultural.png){width="90%" .abs-center}
+
+---
+
+::: {.quote-slide}
+
+![](media/images/tanner.jpg)
+
+> “[human growth] reflects rather accurately the material and moral conditions of that society”
+>
+> — James Tanner
+
+:::
+
+---
 
 
 ## thanks!!
 
 ![](media/logos/arc.jpg){width="50%" .abs-center}
 
----
-
-## thanks for your attention! {.title-center}
 
 ---
+
+![](media/figures/figure1.png){width="80%" .abs-center}
+
 
 
 ```{=html}
